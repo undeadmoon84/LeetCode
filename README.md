@@ -11,8 +11,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
