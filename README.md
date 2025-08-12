@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/undeadmoon84/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
