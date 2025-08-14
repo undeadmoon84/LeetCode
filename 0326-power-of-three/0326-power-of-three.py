@@ -5,8 +5,8 @@ class Solution:
         elif n == 1:
             return True
         else:
-            while n != 1 and n % 1 == 0:
-                n /= 3
+            while n % 3 == 0:
+                n //= 3
             if n == 1:
                 return True
             else:
