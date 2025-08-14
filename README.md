@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/undeadmoon84/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/undeadmoon84/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Counting
 |  |
 | ------- |
