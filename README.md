@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/undeadmoon84/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/undeadmoon84/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
