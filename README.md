@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/undeadmoon84/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/undeadmoon84/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/undeadmoon84/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/undeadmoon84/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/undeadmoon84/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
