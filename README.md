@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/undeadmoon84/LeetCode/tree/master/1448-maximum-69-number) |
 ## Simulation
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/undeadmoon84/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
