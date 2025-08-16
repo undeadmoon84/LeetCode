@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/undeadmoon84/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/undeadmoon84/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/undeadmoon84/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/undeadmoon84/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/undeadmoon84/LeetCode/tree/master/1791-richest-customer-wealth) |
