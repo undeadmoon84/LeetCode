@@ -3,11 +3,11 @@ class Solution:
         dict = {}
         for i in nums:
             if i in dict:
-                dict[i] += 1
+                return True
             else:
                 dict[i] = 1
-            if dict[i] > 1:
-                return True
+            # if dict[i] > 1:
+            #     return True
         # for index, value in dict.items():
         #     if value > 1:
         #         return True
