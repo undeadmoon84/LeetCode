@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/undeadmoon84/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/undeadmoon84/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/undeadmoon84/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/undeadmoon84/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/undeadmoon84/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/undeadmoon84/LeetCode/tree/master/1448-maximum-69-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/undeadmoon84/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
