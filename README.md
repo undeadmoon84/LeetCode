@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/undeadmoon84/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
+| [0830-largest-triangle-area](https://github.com/undeadmoon84/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/undeadmoon84/LeetCode/tree/master/1448-maximum-69-number) |
 ## Simulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/undeadmoon84/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/undeadmoon84/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
+| [0830-largest-triangle-area](https://github.com/undeadmoon84/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1603-running-sum-of-1d-array](https://github.com/undeadmoon84/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/undeadmoon84/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/undeadmoon84/LeetCode/tree/master/0118-pascals-triangle) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/undeadmoon84/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
